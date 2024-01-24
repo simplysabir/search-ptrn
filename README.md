@@ -14,8 +14,8 @@ This is a simple command-line interface (CLI) tool written in Rust that allows y
 Ensure you have Rust installed on your system. You can install the tool by cloning the repository and building the binary using the following commands:
 
 ```
-git clone https://github.com/simplysabir/grrs.git
-cd grrs
+git clone https://github.com/simplysabir/search-ptrn.git
+cd search-ptrn
 cargo build --release
 ```
 The compiled binary will be available in the target/release/ directory.
@@ -25,7 +25,7 @@ or simply install it from [crates.io](https://crates.io/)
 ## Usage
 
 ```
-grrs -- word_to_search_for specify_file_path
+search-ptrn -- word_to_search_for specify_file_path
 ```
 
 ## Error Handling

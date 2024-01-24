@@ -1,12 +1,12 @@
 [package]
-name = "grrs"
+name = "search-ptrn"
 version = "0.1.0"
 authors = ["Sabir Khan <simplysabir@email.com>"]
 license = "MIT OR Apache-2.0"
 description = "A tool to search files"
 readme = "README.md"
-homepage = "https://github.com/simplysabir/grrs"
-repository = "https://github.com/simplysabir/grrs"
+homepage = "https://github.com/simplysabir/search-ptrn"
+repository = "https://github.com/simplysabir/search-ptrn"
 keywords = ["cli", "search", "demo"]
 categories = ["command-line-utilities"]
 
