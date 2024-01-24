@@ -1,4 +1,4 @@
-# Pattern Search CLI ToolPattern Search CLI Tool
+# Pattern Search CLI Tool
 
 ## Overview
 
@@ -20,7 +20,7 @@ cargo build --release
 ```
 The compiled binary will be available in the target/release/ directory.
 
-or simply install it from [crates.io](https://crates.io/)
+or simply install it from [crates.io](https://crates.io/crates/search-ptrn)
 
 ## Usage
 
